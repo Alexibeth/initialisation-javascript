@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+html{
+  font-size: 100%;
+}
+
+body{
+  font-size: 1.4rem;
+  font-family: arial;
+  color: white;
+}
+
+.container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #070b1a;
+
+}
+
+h1 {
+  color: red;
+}
+
